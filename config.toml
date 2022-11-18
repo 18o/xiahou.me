@@ -1,0 +1,4 @@
+baseURL = 'https://xiahou.me/'
+languageCode = 'en-us'
+title = '夏侯'
+theme = "ananke"
