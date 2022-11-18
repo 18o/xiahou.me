@@ -1,4 +1,22 @@
 baseURL = 'https://xiahou.me/'
-languageCode = 'en-us'
+languageCode = 'zh-cn'
 title = '夏侯'
-theme = "ananke"
+theme = "ink"
+
+[params]
+subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.about]]
+name = "About"
+url = "/about"
+weight = 3
