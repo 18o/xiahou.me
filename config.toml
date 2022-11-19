@@ -1,10 +1,9 @@
 baseURL = 'https://xiahou.me/'
 languageCode = 'zh-cn'
 title = '夏侯'
-theme = "ink"
 
 [params]
-subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+subtitle = "1"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -19,4 +18,9 @@ weight = 1
 [[menu.about]]
 name = "About"
 url = "/about"
+weight = 2
+
+[[menu.tags]]
+name = "Tags"
+url = "/tags"
 weight = 3

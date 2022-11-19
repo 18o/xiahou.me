@@ -4,3 +4,6 @@
 [submodule "themes/ink"]
 	path = themes/ink
 	url = https://github.com/18o/hugo-ink.git
+[submodule "themes/xiahou-theme"]
+	path = themes/xiahou-theme
+	url = https://github.com/18o/xiahou-theme.git
