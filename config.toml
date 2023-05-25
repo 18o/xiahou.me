@@ -1,6 +1,6 @@
 baseURL = 'https://xiahou.me/'
 languageCode = 'zh-cn'
-title = '夏侯'
+title = 'xiahou.me'
 
 [params]
 subtitle = "1"
