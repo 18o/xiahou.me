@@ -26,7 +26,7 @@ hasCJKLanguage = true
 
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/i1os"
+  url = "https://github.com/18o"
   weight = 2
 
 
